@@ -17,7 +17,7 @@ try {
 <img src="TopeIbrahim.jpg" alt="Temitope Ibrahim Amosa" width="200px" />&nbsp;</td>
 <td align="left"><p><b>Master Student</b> <br />
 <a href="https://www.utp.edu.my/Pages/Academic/Faculty-of-Engineering/Faculties/About%20Department%20of%20Electrical%20and%20Electronic%20Engineering/About-Electric-and-Electronic-Engineering.aspx/">EEE Department, Universiti Teknologi Petronas, Malaysia (UTP)</a></p>
-<p class ="text-justify">I obtained my Bachelor of Engineering in the <a href="https://www.unilorin.edu.ng/">Department of Computer Engineering</a> at the <a href="https://www.unilorin.edu.ng/">University of Ilorin, Nigeria</a> mentored by <a href="https://scholar.google.com.my/citations?user=OckASdsAAAAJ&hl=enl">Oladimeji Ibrahim</a> and supervised by <a href="">Aye Taiwo Ajiboye</a>.
+<p class ="text-justify">I obtained my Bachelor of Engineering in the <a href="https://www.unilorin.edu.ng/">Department of Computer Engineering</a> at the <a href="https://www.unilorin.edu.ng/">University of Ilorin, Nigeria,</a> where I was mentored by <a href="https://scholar.google.com.my/citations?user=OckASdsAAAAJ&hl=enl">Oladimeji Ibrahim</a> and my undergraduate project was supervised by <a href="">Aye Taiwo Ajiboye</a>.
 As an undergraduate student and intern, I am lucky to have opportunities to work with
  <a href="https://www.linkedin.com/in/jayeola-f-opadiji-370a6225/"> Jayeola Femi Opadiji, </a>
  <a href="https://www.researchgate.net/profile/Yusuf-Abdulrahman"> Amuda Yusuf Abdulrahman, </a>
