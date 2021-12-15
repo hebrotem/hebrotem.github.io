@@ -1,5 +1,5 @@
 
-<body>
+<!-- <body>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -8,10 +8,10 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 try {
     var pageTracker = _gat._getTracker("UA-15688631-4");
     pageTracker._trackPageview();
-} catch(err) {}</script>
+} catch(err) {}</script> -->
 <div id="layout-content">
 <div id="toptitle">
-<h1>  Temitope Ibrahim Amosa</h1>
+<h1>Temitope Ibrahim Amosa</h1>
 </div>
 <table class="imgtable"><tr><td>
 <img src="TopeIbrahim.jpg" alt="Temitope Ibrahim Amosa" width="200px" />&nbsp;</td>
