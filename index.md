@@ -34,7 +34,7 @@ Before I started my graduate study, I worked as NYSC graduate intern at the <a h
 <p>
 <a href="https://twitter.com/real_tope">
 <a class="twitter-follow-button"
-href="https://https://twitter.com/real_tope"
+href="https://twitter.com/real_tope"
 data-size="large">
 Follow @real_tope</a>
  <br />
