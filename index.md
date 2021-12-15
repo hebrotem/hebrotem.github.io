@@ -11,7 +11,7 @@ try {
 } catch(err) {}</script>
 <div id="layout-content">
 <div id="toptitle">
-<h1>Temitope Ibrahim Amosa</h1>
+<h1>  Temitope Ibrahim Amosa</h1>
 </div>
 <table class="imgtable"><tr><td>
 <img src="TopeIbrahim.jpg" alt="Temitope Ibrahim Amosa" width="200px" />&nbsp;</td>
