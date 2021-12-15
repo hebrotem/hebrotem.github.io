@@ -35,7 +35,7 @@ As an undergraduate student and intern, I am lucky to have opportunities to work
   <a href="https://scholar.google.com/citations?user=Gezqnr0AAAAJ&hl=en"> Shehu Lukman Ayinla, </a>
  <a href="https://www.linkedin.com/in/waheed-owonikoko-253265103/?originalSubdomain=ng"> Waheed Owonikoko, </a> and
  <a href="https://scholar.google.com/citations?user=0m0f3SoAAAAJ&hl=en"> Abdulrahman Olalekan Yusuf</a>.
-Before I begin my gradudate study, I worked as NYSC graduate intern at the <a href="https://www.tcn.org.ng/">Transmission Company of Nigeria, Dutse-Work Center</a> and also as IT intern at <a href"https://egbin-power.com/"> Egbin-Power Plc.</a>
+Before I begin my gradudate study, I worked as NYSC graduate intern at the <a href="https://www.tcn.org.ng/">Transmission Company of Nigeria, Dutse-Work Center</a> and also as IT intern at <a href="https://egbin-power.com/"> Egbin-Power Plc.</a>
 <p>My research interests lie at the intersection of computer vision, video analytic, and machine learning.</p>
 <h3><a href="#group">Research Group</a> | <a href="#teaching">Teaching</a> | <a href="#talks">Talks</a> | <a href="#pubs">Publications</a> | <a href="Huang_CV.pdf">CV</a> | <a href="Huang_CV_Failure.pdf">CV of Failures</a> | <a href="#open-office-hour">Open Office Hours</a> | <a href="https://github.com/jbhuang0604/awesome-tips">Twitter tips</a></h3>
 <p>
