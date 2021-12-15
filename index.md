@@ -17,7 +17,7 @@ try {
 <img src="TopeIbrahim.jpg" alt="Temitope Ibrahim Amosa" width="200px" />&nbsp;</td>
 <td align="left"><p><b>Master Student</b> <br />
 <a href="https://www.utp.edu.my/Pages/Academic/Faculty-of-Engineering/Faculties/About%20Department%20of%20Electrical%20and%20Electronic%20Engineering/About-Electric-and-Electronic-Engineering.aspx/">EEE Department, Universiti Teknologi Petronas, Malaysia (UTP)</a></p>
-<p>I obtained my Bachelor of Engineering in the <a href="https://www.unilorin.edu.ng/">Department of Computer Engineering</a> at the <a href="https://www.unilorin.edu.ng/">University of Ilorin, Nigeria</a> mentored by <a href="https://scholar.google.com.my/citations?user=OckASdsAAAAJ&hl=enl">Oladimeji Ibrahim</a> and supervised by <a href="">Aye Taiwo Ajiboye</a>.
+<p class ="text-justify">I obtained my Bachelor of Engineering in the <a href="https://www.unilorin.edu.ng/">Department of Computer Engineering</a> at the <a href="https://www.unilorin.edu.ng/">University of Ilorin, Nigeria</a> mentored by <a href="https://scholar.google.com.my/citations?user=OckASdsAAAAJ&hl=enl">Oladimeji Ibrahim</a> and supervised by <a href="">Aye Taiwo Ajiboye</a>.
 As an undergraduate student and intern, I am lucky to have opportunities to work with
  <a href="https://www.linkedin.com/in/jayeola-f-opadiji-370a6225/"> Jayeola Femi Opadiji, </a>
  <a href="https://www.researchgate.net/profile/Yusuf-Abdulrahman"> Amuda Yusuf Abdulrahman, </a>
@@ -28,8 +28,8 @@ As an undergraduate student and intern, I am lucky to have opportunities to work
   <a href="https://scholar.google.com/citations?user=Gezqnr0AAAAJ&hl=en"> Shehu Lukman Ayinla, </a>
  <a href="https://www.linkedin.com/in/waheed-owonikoko-253265103/?originalSubdomain=ng"> Waheed Owonikoko, </a> and
  <a href="https://scholar.google.com/citations?user=0m0f3SoAAAAJ&hl=en"> Abdulrahman Olalekan Yusuf</a>.
-Before I begin my gradudate study, I worked as NYSC graduate intern at the <a href="https://www.tcn.org.ng/">Transmission Company of Nigeria, Dutse-Work Center</a> and also as IT intern at <a href="https://egbin-power.com/"> Egbin-Power Plc.</a>
-<p>My research interests lie at the intersection of computer vision, video analytic, and machine learning.</p>
+Before I begin my gradudate study, I worked as NYSC graduate intern at the <a href="https://www.tcn.org.ng/">Transmission Company of Nigeria, Dutse-Work Center</a> and also as IT intern at <a href="https://egbin-power.com/"> Egbin-Power Plc.</a></p>
+<p class= "text-justify">My research interests lie at the intersection of computer vision, video analytic, and machine learning.</p>
 <h3><a href="#group">Research Group</a> | <a href="#teaching">Teaching</a> | <a href="#talks">Talks</a> | <a href="#pubs">Publications</a> | <a href="Huang_CV.pdf">CV</a> | <a href="Huang_CV_Failure.pdf">CV of Failures</a> | <a href="#open-office-hour">Open Office Hours</a> | <a href="https://github.com/jbhuang0604/awesome-tips">Twitter tips</a></h3>
 <p>
 <a href="https://twitter.com/jbhuang0604">
