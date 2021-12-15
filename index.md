@@ -3,7 +3,7 @@
         <h1> 
             <a href="https://github.com/hebrotem/">Temitope Ibrahim Amosa</a>
         </h1>
-        <img src="TopeIbrahim.jpg" alt="Logo">
+        <img src="TopeIbrahim.jpg" alt="Logo" width = "42px" height ="42px">
         <p>Minimal is a theme for GitHub Pages.</p>
         <p class="view"><a href="https://github.com/pages-themes/minimal">View the Project on GitHub <small>pages-themes/minimal</small></a></p>
         <ul class="downloads">
