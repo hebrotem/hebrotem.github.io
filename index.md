@@ -1,37 +1,146 @@
-## Welcome to AMOSA TEMITOPE IBRAHIM PAGE
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<link rel="stylesheet" href="jemdoc.css" type="text/css" />
+<title>Temitope Ibrahim Amosa</title>
+</head>
+<body>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+    var pageTracker = _gat._getTracker("UA-15688631-4");
+    pageTracker._trackPageview();
+} catch(err) {}</script>
+<div id="layout-content">
+<div id="toptitle">
+<h1>Temitope Ibrahim Amosa</h1>
+</div>
+<table class="imgtable"><tr><td>
+<img src="images/jbhuang.jpg" alt="Jia-Bin Huang" width="200px" />&nbsp;</td>
+<td align="left"><p><b>Master Student</b> <br />
+<a href="https://www.utp.edu.my/Pages/Academic/Faculty-of-Engineering/Faculties/About%20Department%20of%20Electrical%20and%20Electronic%20Engineering/About-Electric-and-Electronic-Engineering.aspx/">EEE Department, Universiti Teknologi Petronas, Malaysia (UTP)</a></p>
+<p>I obtained my Bachelor of Engineering in the <a href="https://www.unilorin.edu.ng/">Department of Computer Engineering</a> at the <a href="https://www.unilorin.edu.ng/">University of Ilorin, Nigeria</a> mentored by <a href="https://scholar.google.com.my/citations?user=OckASdsAAAAJ&hl=enl">Oladimeji Ibrahim</a> and supervised by <a href="">Aye Taiwo Ajiboye</a>.
+As an undergraduate student and intern, I am lucky to have opportunities to work with
+ <a href="https://www.linkedin.com/in/jayeola-f-opadiji-370a6225/"> Jayeola Femi Opadiji, </a>
+ <a href="https://www.researchgate.net/profile/Yusuf-Abdulrahman"> Amuda Yusuf Abdulrahman, </a>
+ <a href="https://scholar.google.com.my/citations?user=PJFt0rEAAAAJ&hl=en"> Mudathir Akorede, </a>
+ <a href="https://www.linkedin.com/in/olusogo-popoola-9a17b8b/?originalSubdomain=ng"> Olusogo Joshua Popoola, </a>
+ <a href="https://https://www.linkedin.com/in/akande-hussein-olanrewaju-1a5ab2b/">Akande Hussain Olarewaju </a>,
+ <a href="https://scholar.google.com/citations?user=imqCIgUAAAAJ&hl=en"> Nasir Faruk, </a>
+  <a href="https://scholar.google.com/citations?user=Gezqnr0AAAAJ&hl=en"> Shehu Lukman Ayinla, </a>
+ <a href="https://www.linkedin.com/in/waheed-owonikoko-253265103/?originalSubdomain=ng"> Waheed Owonikoko, </a> and
+ <a href="https://scholar.google.com/citations?user=0m0f3SoAAAAJ&hl=en"> Abdulrahman Olalekan Yusuf</a>.
+Before I begin my gradudate study, I worked as NYSC graduate intern at the <a href="https://www.tcn.org.ng/">Transmission Company of Nigeria, Dutse-Work Center</a> and also as IT intern at <a href"https://egbin-power.com/"> Egbin-Power Plc.</a>
+<p>My research interests lie at the intersection of computer vision, video analytic, and machine learning.</p>
+<h3><a href="#group">Research Group</a> | <a href="#teaching">Teaching</a> | <a href="#talks">Talks</a> | <a href="#pubs">Publications</a> | <a href="Huang_CV.pdf">CV</a> | <a href="Huang_CV_Failure.pdf">CV of Failures</a> | <a href="#open-office-hour">Open Office Hours</a> | <a href="https://github.com/jbhuang0604/awesome-tips">Twitter tips</a></h3>
+<p>
+<a href="https://twitter.com/jbhuang0604">
+<a class="twitter-follow-button"
+href="https://twitter.com/jbhuang0604"
+data-size="large">
+Follow @jbhuang0604</a>
+ <br />
+<b>Email</b>: <a href="mailto:jbhuang@vt.edu">jbhuang@vt.edu</a></p>
+</td></tr></table>
+<div class="infoblock">
+<div class="blockcontent">
 
-You can use the [editor on GitHub](https://github.com/hebrotem/hebrotem.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<h2>News</h2>
+<ul>
+  <li>
+    Jul. 2020: One paper [MEB-Net] was accepted by ECCV 2020!
+  </li>
 
-- Bulleted
-- List
+<!--   <li>
+    Apr. 2020: One paper [SIM] was accepted by IJCAI 2020!
+  </li> -->
 
-1. Numbered
-2. List
+  <li>
+    Feb. 2020: One paper [AD-Cluster] was accepted by CVPR 2020!
+  </li>
 
-**Bold** and _Italic_ and `Code` text
+</ul>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hebrotem/hebrotem.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+<h2>Publications</h2>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table class="pub_table">
+  <tbody>
+
+  <tr>
+    <td class="pub_td1"><img src="./YunpengZhai_files/996.png" class="papericon"></td>
+    <td class="pub_td2">Mengxi Jia, Xinhua Cheng, <u>Yunpeng Zhai</u>, Shijian Lu, Siwei Ma, Yonghong Tian, Jian Zhang
+      <br><b>Matching on Sets: Conquer Occluded Person Re-identification Without Alignment</b>
+      <br>AAAI Conference on Artificial Intelligence (AAAI), 2021.
+      <br>
+      <!-- [<a href="">Code</a>] -->
+    </td>
+  </tr>
+
+  <!-- #12 -->
+  <tr>
+    <td class="pub_td1"><img src="./YunpengZhai_files/mebnet.png" class="papericon"></td>
+    <td class="pub_td2"><u>Yunpeng Zhai</u>, <a href="http://people.ucas.ac.cn/~qxye?language=en">Qixiang Ye</a>, Shijian Lu, <a href="https://mxjia.github.io">Mengxi Jia</a>, Rongrong Ji, Yonghong Tian
+      <br><b>Multiple Expert Brainstorming for Domain Adaptive Person Re-identification</b>
+      <br>European Conference on Computer Vision (ECCV), 2020
+      <br>
+      <!-- [<a href="">PDF</a>] -->
+      
+      [<a href="https://arxiv.org/abs/2007.01546">PDF</a>] [<a href="https://github.com/YunpengZhai/MEB-Net">Code</a>]
+    </td>
+  </tr>
+
+  <!-- #11 -->
+  <tr>
+    <td class="pub_td1"><img src="./YunpengZhai_files/adcluster.png" class="papericon"></td>
+    <td class="pub_td2"><u>Yunpeng Zhai</u>, Shijian Lu, Qixiang Ye, Xuebo Shan, Jie Chen, Rongrong Ji, Yonghong Tian
+      <br><b>AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-identification</b>
+      <br>IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2020.
+      <br>
+      [<a href="https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhai_AD-Cluster_Augmented_Discriminative_Clustering_for_Domain_Adaptive_Person_Re-Identification_CVPR_2020_paper.pdf">PDF</a>]
+      <!-- [<a href="">Code</a>] -->
+    </td>
+  </tr>
+
+  <!-- #10 -->
+  <tr>
+    <td class="pub_td1"><img src="./YunpengZhai_files/IJCAI.png" class="papericon"></td>
+    <td class="pub_td2"><a href="https://mxjia.github.io">Mengxi Jia</a>, <u>Yunpeng Zhai</u>, Shijian Lu, Siwei Ma, Jian Zhang
+      <br><b>A Similarity Inference Metric for RGB-Infrared Cross-Modality Person Re-identification</b>
+      <br>International Joint Conference on Artificial Intelligence (IJCAI), 2020.
+      <br>
+      [<a href="https://arxiv.org/abs/2007.01504">PDF</a>]
+      <!-- [<a href="">Code</a>] -->
+    </td>
+  </tr>
+
+  </tbody>
+</table>
+
+    
+<br>
+<!-- <h2>Awards</h2>
+    <li>  a1  </li>
+    <li>  a2  </li> -->
+
+
+<br> <br> 
+    
+    
+
+
+
