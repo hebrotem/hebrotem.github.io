@@ -9,9 +9,6 @@ try {
     var pageTracker = _gat._getTracker("UA-15688631-4");
     pageTracker._trackPageview();
 } catch(err) {}</script> -->
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
-  <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
-</svg>
 <div id="layout-content">
 <div id="toptitle">
 <h1>Temitope Ibrahim Amosa</h1>
@@ -20,6 +17,7 @@ try {
 <img src="TopeIbrahim.jpg" alt="Temitope Ibrahim Amosa" width="200px" />&nbsp;</td>-->
 <td align="left"><p><b>Master Student</b> <br />
 <a href="https://www.utp.edu.my/Pages/Academic/Faculty-of-Engineering/Faculties/About%20Department%20of%20Electrical%20and%20Electronic%20Engineering/About-Electric-and-Electronic-Engineering.aspx/">EEE Department, Universiti Teknologi Petronas, Malaysia (UTP)</a></p>
+<div class="container">
 <p class ="text-justify">I obtained my Bachelor of Engineering in the <a href="https://www.unilorin.edu.ng/">Department of Computer Engineering</a> at the <a href="https://www.unilorin.edu.ng/">University of Ilorin, Nigeria,</a> where I was mentored by <a href="https://scholar.google.com.my/citations?user=OckASdsAAAAJ&hl=enl">Oladimeji Ibrahim</a> and my undergraduate project was supervised by <a href="">Aye Taiwo Ajiboye</a>.
 As an undergraduate student and intern, I am lucky to have opportunities to work with
  <a href="https://www.linkedin.com/in/jayeola-f-opadiji-370a6225/"> Jayeola Femi Opadiji, </a>
@@ -32,13 +30,14 @@ As an undergraduate student and intern, I am lucky to have opportunities to work
  <a href="https://www.linkedin.com/in/waheed-owonikoko-253265103/?originalSubdomain=ng"> Waheed Owonikoko, </a> and
  <a href="https://scholar.google.com/citations?user=0m0f3SoAAAAJ&hl=en"> Abdulrahman Olalekan Yusuf</a>.
 Before I started my graduate study, I worked as NYSC graduate intern at the <a href="https://www.tcn.org.ng/">Transmission Company of Nigeria, Dutse-Work Center</a> and also as IT intern at <a href="https://egbin-power.com/"> Egbin-Power Plc.</a></p>
+</div>
 <p class= "text-justify text-info">My research interests lie at the intersection of computer vision, video analytic, and machine learning.</p>
 <h3><a href="#group">Research Lab</a> | <a href="#GA">Resarch Update</a> | <a href="#pubs">Publications</a> | <a href="Amosa_Temitope_Resume.pdf">CV</a> | <a href="#open-office-hour">GA Hours</a> </h3>
 <p>
-<a href="https://twitter.com/real_tope">
+<i class="bi bi-twitter"></i><a href="https://twitter.com/real_tope">
 <a class="twitter-follow-button"
 href="https://twitter.com/real_tope"
-data-size="large"><i class="bi bi-twitter"></i>
+data-size="large">
 Follow @real_tope</a>
  <br />
   <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
