@@ -35,7 +35,7 @@ Before I started my graduate study, I worked as NYSC graduate intern at the <a h
 <a href="https://twitter.com/real_tope">
 <a class="twitter-follow-button"
 href="https://twitter.com/real_tope"
-data-size="large">
+data-size="large"><i class="bi bi-twitter"></i>
 Follow @real_tope</a>
  <br />
 <b>Email</b>: <a href="mailto:amosatemitopeibrahim@gmail.com">amosatemitopeibrahim@gmail.com</a></p>
