@@ -21,7 +21,7 @@ try {
 <h1>Temitope Ibrahim Amosa</h1>
 </div>
 <table class="imgtable"><tr><td>
-<img src="images/jbhuang.jpg" alt="Jia-Bin Huang" width="200px" />&nbsp;</td>
+<img src="Topeibrahim.jpg" alt="Temitope Ibrahim Amosa" width="200px" />&nbsp;</td>
 <td align="left"><p><b>Master Student</b> <br />
 <a href="https://www.utp.edu.my/Pages/Academic/Faculty-of-Engineering/Faculties/About%20Department%20of%20Electrical%20and%20Electronic%20Engineering/About-Electric-and-Electronic-Engineering.aspx/">EEE Department, Universiti Teknologi Petronas, Malaysia (UTP)</a></p>
 <p>I obtained my Bachelor of Engineering in the <a href="https://www.unilorin.edu.ng/">Department of Computer Engineering</a> at the <a href="https://www.unilorin.edu.ng/">University of Ilorin, Nigeria</a> mentored by <a href="https://scholar.google.com.my/citations?user=OckASdsAAAAJ&hl=enl">Oladimeji Ibrahim</a> and supervised by <a href="">Aye Taiwo Ajiboye</a>.
