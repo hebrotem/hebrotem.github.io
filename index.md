@@ -33,7 +33,7 @@ As an undergraduate student and intern, I am lucky to have opportunities to work
  <a href="https://scholar.google.com/citations?user=0m0f3SoAAAAJ&hl=en"> Abdulrahman Olalekan Yusuf</a>.
 Before I started my graduate study, I worked as NYSC graduate intern at the <a href="https://www.tcn.org.ng/">Transmission Company of Nigeria, Dutse-Work Center</a> and also as IT intern at <a href="https://egbin-power.com/"> Egbin-Power Plc.</a></p>
 <p class= "text-justify">My research interests lie at the intersection of computer vision, video analytic, and machine learning.</p>
-<h3><a href="#group">Research Lab</a> | <a href="#GA">Resarch Update</a> | <a href="#talks">Talks</a> | <a href="#pubs">Publications</a> | <a href="Amosa_Temitope_Resume.pdf">CV</a> | <a href="#open-office-hour">GA Hours</a> </h3>
+<h3><a href="#group">Research Lab</a> | <a href="#GA">Resarch Update</a> | <a href="#pubs">Publications</a> | <a href="Amosa_Temitope_Resume.pdf">CV</a> | <a href="#open-office-hour">GA Hours</a> </h3>
 <p>
 <a href="https://twitter.com/real_tope">
 <a class="twitter-follow-button"
@@ -41,8 +41,7 @@ href="https://twitter.com/real_tope"
 data-size="large"><i class="bi bi-twitter"></i>
 Follow @real_tope</a>
  <br />
-<b>Email</b>: <a href="mailto:amosatemitopeibrahim@gmail.com">amosatemitopeibrahim@gmail.com</a></p>
-</td></tr></table>
+<b>Email</b>: <a href="mailto:amosatemitopeibrahim@gmail.com">amosatemitopeibrahim@gmail.com</a>
 <div class="infoblock">
 <div class="blockcontent">
 
