@@ -55,15 +55,15 @@ data-size="large">
 <h2>News</h2>
 <ul>
   <li>
-    Jul. 2020: One paper [MEB-Net] was accepted by ECCV 2020!
+    Jul. 2023: One paper [Multi-camera multi-object tracking: A review of current trend and future advance] was accepted by Neurocomputing!
   </li>
 
 <!--   <li>
-    Apr. 2020: One paper [SIM] was accepted by IJCAI 2020!
+    June. 2023: One paper [Clinical Errors from Acronym Use in Electronic Health Record: A Review of NLP-based Disambiguation Techniques] was accepted by Neurocomputing!
   </li> -->
 
   <li>
-    Feb. 2020: One paper [AD-Cluster] was accepted by CVPR 2020!
+    Oct. 2022: Two papers [AD-Cluster] were accepted by ESCON 2022!
   </li>
 
 </ul>
